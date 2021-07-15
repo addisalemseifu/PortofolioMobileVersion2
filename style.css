@@ -257,6 +257,19 @@ img {
   padding: 0;
 }
 
+ul {
+  width: auto;
+  height: 36px;
+  margin-left: 12px;
+  margin-right: 12px;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0;
+}
+
 .selections-p2 h2 {
   width: 55px;
   height: 16px;
